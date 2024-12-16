@@ -1,0 +1,8 @@
+
+Three_finger_code.ino contains code and instructions to operate the soft robotics hand, including waypoint-based and contact-detection based manipulation. It can be run using the Arduino IDE version 2.3.2. Available for download from: https://www.arduino.cc/en/software
+
+The finger_characterisation folder contains data from the finger characterization tests (2024_1122_0mm.txt, 2024_1122_10mm.txt, and 2024_1122_20mm.txt), code to run the finger characterize test (1_finger_withloadcell_pwm_test.ino), and a data analysis script (multi_distance_data_interpreter.m). The code to run the finger characterize test can be run using the Arduino IDE version 2.3.2. The data analysis script can be run using Matlab version R2023a.
+
+The CAD folder contains GRIPPER_ASSEM.STEP, a file for the hand assembly. It can be opened using Solidworks version 2023.
+
+Supplemental_Video.mp4 contains a .mp4 video which can be played in QuickTime player (Mac) or Media Player (Windows).
