@@ -1,7 +1,7 @@
 close all; clear; clc;
 
 file1 = "multi_distance/2024_1122_0cm.txt";
-file2 = "multi_distance/2024_1122_10cm_v2.txt";
+file2 = "multi_distance/2024_1122_10cm.txt";
 file3 = "multi_distance/2024_1122_20cm.txt";
 
 % Plot Force-vs-Angle Data
