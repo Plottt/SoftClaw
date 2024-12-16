@@ -12,9 +12,9 @@ Corresponding Author: Prof. Majidi (cmajidi@andrew.cmu.edu)
 
 Three_finger_code.ino contains code and instructions to operate the soft robotics hand, including waypoint-based and contact-detection based manipulation. It can be run using the Arduino IDE version 2.3.2. Available for download from: https://www.arduino.cc/en/software
 
-finger_characterisation contains data and code to characterize the contact detection and the force-curvature relationship after contact. The script can be run using Matlab version R2023a.
+The finger_characterisation folder contains data from characterization tests and code to run the tests and analyze the results. The code to run the tests can run using the Arduino IDE version 2.3.2. Available for download from: https://www.arduino.cc/en/software.  The script to analyze the data can be run using Matlab version R2023a.
 
-CAD contains a .STEP file for the hand assembly. It can be opened using Solidworks version 2023.
+The CAD folder contains a .STEP file for the hand assembly. It can be opened using Solidworks version 2023.
 
 Supplemental_Video.mp4 contains a .mp4 video which can be played in QuickTime player (Mac) or Media Player (Windows).
 
