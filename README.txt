@@ -14,6 +14,8 @@ Three_finger_code.ino contains code and instructions to operate the soft robotic
 
 finger_characterisation contains data and code to characterize the contact detection and the force-curvature relationship after contact. The script can be run using Matlab version R2023a.
 
-CAD contains a .STEP file for the hand assembly. It can be opened using various programs, including Solidworks version 2023.
+CAD contains a .STEP file for the hand assembly. It can be opened using Solidworks version 2023.
 
 Supplemental_Video.mp4 contains a .mp4 video which can be played in QuickTime player (Mac) or Media Player (Windows).
+
+For questions regarding technical support for multimedia material, please contact Louis Plottel (lmplotte@cs.cmu.edu)
