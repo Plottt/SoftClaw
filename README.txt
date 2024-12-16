@@ -2,7 +2,7 @@ Supplemental information for the Soft Robotic Hand
 
 Title: Contact Detection and Manipulation with a Shape-Memory Alloy Based Soft Gripper
 
-Authors: Louis Plottel(1), Richard Desatnik(2), Dinesh Patel(2), Philip LeDuc(2), Carmel Majidi(1,2)
+Authors: Louis Plottel(1), Richard Desatnik(2), Dinesh K. Patel(2), Philip LeDuc(2), Carmel Majidi(1,2)
 
 
 (1) The Robotics Institute, Carnegie Mellon University, Pittsburgh, USA
