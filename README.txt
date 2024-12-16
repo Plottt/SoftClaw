@@ -1,4 +1,4 @@
-Supplemental for the Soft Robotic Hand
+Supplemental information for the Soft Robotic Hand
 
 Title: Contact Detection and Manipulation with a Shape-Memory Alloy Based Soft Gripper
 
