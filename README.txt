@@ -6,7 +6,7 @@ Authors: Louis Plottel(1), Richard Desatnik(2), Dinesh K. Patel(2), Philip LeDuc
 
 
 (1) The Robotics Institute, Carnegie Mellon University, Pittsburgh, USA
-(2) Mechanical Engineering, Carnegie Mellon University, Pittsburgh, USA
+(2) Department of Mechanical Engineering, Carnegie Mellon University, Pittsburgh, USA
 Corresponding Author: Prof. Majidi (cmajidi@andrew.cmu.edu)
 
 
